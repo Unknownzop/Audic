@@ -37,7 +37,7 @@ A powerful, modern Discord music bot for seamless audio streaming, advanced filt
      LAVALINK_HOST=your_lavalink_host
      LAVALINK_PORT=your_lavalink_port
      LAVALINK_PASSWORD=your_lavalink_password
-     SUPPORT_SERVER=your_support_server_url (optional)
+ LOG_WEBHOOK_URL=enter_webhook_url_here (optional) SUPPORT_SERVER=your_support_server_url (optional)
      ```
    - **How to get these:**
      - `DISCORD_TOKEN` and `CLIENT_ID`: [Create a Discord bot application](https://discord.com/developers/applications), copy the token and client ID from the "Bot" and "General Information" tabs.
@@ -85,3 +85,4 @@ You can reach out to [HX Dev](https://discordapp.com/users/655010590980309013) o
 ---
 
 Enjoy your music experience! 🎧
+
