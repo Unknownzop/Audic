@@ -72,7 +72,7 @@ A powerful, modern Discord music bot for seamless audio streaming, advanced filt
 
 ### 6. 🆘 **Help & Support**
 - Use `/help` to see all available commands and features.
-- For support, contact [HX Dev](https://discordapp.com/users/655010590980309013) on Discord.
+- For support, contact [Unknownz](https://discordapp.com/users/1092773378101882951) on Discord.
 
 ---
 
@@ -85,54 +85,3 @@ You can reach out to [HX Dev](https://discordapp.com/users/655010590980309013) o
 ---
 
 Enjoy your music experience! 🎧
-
-## Installation
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Unknownz/Audic.git
-   cd Audic
-   
-
-2. **Set up environment variables**  
-   - Open a `.env` file in the root directory.
-   - Add the all variables:
-
-3. **Install dependencies**  
-   Run the following command:
-   ```bash
-   npm install
-   ```
-
-4. **Start the bot**  
-   Execute the following command to start the bot:
-   ```bash
-   node index.js
-   ```
-
----
-
-## Usage
-
-1. Invite the bot to your Discord server using the OAuth2 URL.
-2. Use bot commands to play and manage music queues.
-
----
-
-## Support
-
-- If you encounter any issues, contact me on Discord: [Unknownz](https://discordapp.com/users/1092773378101882951).
-
----
-
-## Contributing
-
-We welcome contributions! Feel free to fork the repository and submit pull requests.
-
----
-
-## Star the Repository ⭐  
-If you like this project, consider starring the repository to show your support!
-```
-
-This updated version includes your Discord ID link with your header username "Unknownz." Let me know if there's anything else you'd like adjusted!
