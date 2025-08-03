@@ -31,12 +31,11 @@ A powerful, modern Discord music bot for seamless audio streaming, advanced filt
 3. ⚙️ **Set up your environment variables**
    - Create a file named `.env` in the project root.
    - Add the following variables (see below for how to get them):
-     ```env
-     DISCORD_TOKEN=your_discord_bot_token
-     CLIENT_ID=your_discord_client_id
-     LAVALINK_HOST=your_lavalink_host
-     LAVALINK_PORT=your_lavalink_port
-     LAVALINK_PASSWORD=your_lavalink_password
+     ```
+DISCORD_TOKEN=your_discord_bot_token
+CLIENT_ID=your_discord_client_id
+LAVALINK_HOST=your_lavalink_host LAVALINK_PORT=your_lavalink_port
+LAVALINK_PASSWORD=your_lavalink_password
 LOG_WEBHOOK_URL=enter_webhook_url_here (optional) SUPPORT_SERVER=your_support_server_url (optional)
      ```
    - **How to get these:**
@@ -85,5 +84,6 @@ You can reach out to [HX Dev](https://discordapp.com/users/655010590980309013) o
 ---
 
 Enjoy your music experience! 🎧
+
 
 
