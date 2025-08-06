@@ -1,6 +1,6 @@
 # 🎵 Audic Discord Music Bot
 
-A powerful, modern Discord music bot for seamless audio streaming, advanced filters, and interactive controls.
+A open source powerful, modern Discord music bot for seamless audio streaming, advanced filters, and interactive controls.
 
 ---
 
@@ -87,6 +87,7 @@ You can reach out to [HX Dev](https://discordapp.com/users/655010590980309013) o
 ---
 
 Enjoy your music experience! 🎧
+
 
 
 
