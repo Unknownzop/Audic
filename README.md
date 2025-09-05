@@ -9,38 +9,38 @@ Whether you're running a chill community or a high-traffic server, Audic stays r
 ## 🚀 Features
 
 - 🎶 Stream music from YouTube and other sources via Lavalink
-- 🎛 Apply real-time audio filters (bass boost, vaporwave, etc.)
+- 🎛️ Apply real-time audio filters (bass boost, vaporwave, etc.)
 - 📜 Full slash command support with autocomplete
 - 📦 Lightweight and modular codebase using Shoukaku + Kazagumo
 - 🔒 Permission-aware command execution
 - 🧠 Smart queue with skip, loop, shuffle, and more
 - 📊 Live now-playing embeds with controls
 - 🌐 Multi-guild support with isolated queues
-- ⚙ Easy config via .env and config.js
+- ⚙️ Easy config via `.env` and `config.js`
 
 ---
 
-## 🛠 Installation
+## 🛠️ Installation
 
 ### 1. Clone the repository
-bash
+```bash
 git clone https://github.com/Unknownzop/Audic.git
 cd Audic
-
+```
 
 ### 2. Install dependencies
-bash
+```bash
 npm install
-
+```
 
 ### 3. Configure environment
-- Copy .env.example to .env
+- Copy `.env.example` to `.env`
 - Fill in your bot token, client ID, Lavalink host/port/password, and other required fields
 
 ### 4. Start the bot
-bash
+```bash
 node index.js
-
+```
 
 ---
 
@@ -48,11 +48,11 @@ node index.js
 
 | Folder        | Purpose                                 |
 |---------------|------------------------------------------|
-| commands/   | Slash command definitions                |
-| events/     | Discord event listeners                  |
-| utils/      | Helper functions and shared logic        |
-| config.js   | Bot configuration                        |
-| index.js    | Entry point and client initialization    |
+| `commands/`   | Slash command definitions                |
+| `events/`     | Discord event listeners                  |
+| `utils/`      | Helper functions and shared logic        |
+| `config.js`   | Bot configuration                        |
+| `index.js`    | Entry point and client initialization    |
 
 ---
 
